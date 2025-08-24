@@ -9,6 +9,20 @@
 
 ---
 
+## 🌐 Connect with me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandey-9267)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)  
+
+---
+
+## 📊 LeetCode Stats  
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo%20Tammudu%202&ext=contest)](https://leetcode.com/your-leetcode-username/)  
+
+---
+
 ## 🧑‍💻 About me  
 
 ![Profile views](https://komarev.com/ghpvc/?username=pandey-9267&color=blue&style=flat)
