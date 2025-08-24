@@ -19,7 +19,7 @@
 
 ## 📊 LeetCode Stats  
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo%20Tammudu%202&ext=contest)](https://leetcode.com/your-leetcode-username/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo%20Tammudu%202&ext=contest)](https://leetcode.com/u/pandey-9267/)  
 
 ---
 
