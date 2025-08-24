@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About me  
 
-![Profile views](https://komarev.com/ghpvc/?username=abhishek-pandey&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=pandey-9267&color=blue&style=flat)
 
 - 🎓 I'm a **BTech CSE student** (2nd Year, GNIT Greater Noida, AKTU)  
 - 🌍 From **Delhi, India 🇮🇳**  
@@ -29,11 +29,11 @@
 
 ## 📊 GitHub Stats  
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-pandey&show_icons=true&theme=radical)  
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandey-9267&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-pandey&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandey-9267&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-pandey&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pandey-9267&theme=radical)  
 
 ---
 
