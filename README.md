@@ -24,16 +24,6 @@
 - **Languages**: C++, JavaScript  
 - **Currently Exploring**: Web Development 🌐, DSA 📊  
 - **Future Goals**: Open Source, Cloud, and Software Engineering 💼
-  
----
-
-## 📊 GitHub Stats  
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=pandey-9267&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandey-9267&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pandey-9267&theme=radical)  
 
 ---
 
