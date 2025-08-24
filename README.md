@@ -23,4 +23,4 @@ When I'm not coding, I enjoy 🎮 gaming (BGMI), 🏋️ lifting weights, and sp
 
 ---
 
-⭐️ From [Abhishek Pandey](https://github.com/abhishek123)
+⭐️ From [Abhishek Pandey](https://github.com/pandet-9267)
