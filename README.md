@@ -1,4 +1,6 @@
-# Hi there 👋, my name is Abhishek Pandey  
+# Hi there 👋, my name is Abhishek Pandey
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Hi+I'm+Abhishek+Pandey+👨‍💻;BTech+CSE+Student;Gamer+🎮;Future+Software+Engineer+🚀)](https://git.io/typing-svg)
 
 ---
 
