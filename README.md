@@ -23,7 +23,17 @@
 ## ⚡ Tech Stack  
 - **Languages**: C++, JavaScript  
 - **Currently Exploring**: Web Development 🌐, DSA 📊  
-- **Future Goals**: Open Source, Cloud, and Software Engineering 💼  
+- **Future Goals**: Open Source, Cloud, and Software Engineering 💼
+  
+---
+
+## 📊 GitHub Stats  
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-pandey&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-pandey&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-pandey&theme=radical)  
 
 ---
 
