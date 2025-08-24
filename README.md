@@ -17,12 +17,6 @@
 
 ---
 
-## 📊 LeetCode Stats  
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-pandey_9267?theme=dark&font=Baloo%20Tammudu%202&ext=contest)](https://leetcode.com/u/pandey-9267/)  
-
----
-
 ## 🧑‍💻 About me  
 
 ![Profile views](https://komarev.com/ghpvc/?username=pandey-9267&color=blue&style=flat)
