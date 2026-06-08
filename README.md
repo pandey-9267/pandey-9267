@@ -11,6 +11,10 @@
 
 ---
 
+<h2>💻 Tech Stack</h2>
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,git,github,vscode&perline=6" />
+
 ## 🛠️ Skills  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
