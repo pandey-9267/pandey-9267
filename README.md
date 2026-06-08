@@ -11,7 +11,7 @@
 
 ---
 
-<h2>💻 Tech Stack</h2>
+<h2>💻 Tools</h2>
 
 <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,git,github,vscode&perline=6" />
 
